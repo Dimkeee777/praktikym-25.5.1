@@ -1,0 +1,1 @@
+adress = "https://petfriends.skillfactory.ru/new_user"

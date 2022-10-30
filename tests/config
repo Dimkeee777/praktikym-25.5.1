@@ -1,0 +1,3 @@
+#pytest -v --driver Chrome --driver-path /project//chromedriver.exe tests/test1.py
+
+from selenium.webdriver.support.ui import WebDriverWait
